@@ -1,0 +1,18 @@
+# Core
+google-generativeai>=0.7.0
+sentence-transformers>=2.7.0
+faiss-cpu>=1.8.0
+datasets>=2.20.0
+
+# Baseline
+scikit-learn>=1.5.0
+numpy>=1.26.0
+pandas>=2.2.0
+
+# Evaluation
+rouge-score>=0.1.2
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+requests>=2.32.0
